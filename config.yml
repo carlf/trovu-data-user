@@ -4,11 +4,11 @@
 # https://trovu.net/docs/users/advanced/#custom-configuration
 
 namespaces:
-- github: .
-  name: carlf
 - o
 - en
 - .us
+- github: .
+  name: carlf
 # defaultKeyword: g 
 defaultKeyword: kg
 language: en
