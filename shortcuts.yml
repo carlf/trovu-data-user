@@ -5,5 +5,7 @@
 
 ku 0: https://www.amazon.com/b/ref=ku_br_rw_lp_mn?node=9069934011
 ku 1: https://www.amazon.com/s?k=<query>&i=kindle-unlimited
+gr 0: https://goodreads.com
+gr 1: https://www.goodreads.com/search?q=<query>
 grb 1: https://www.goodreads.com/book/show/<query>
 sr 1: https://reddit.com/r/<query>
