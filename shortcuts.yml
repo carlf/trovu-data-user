@@ -9,3 +9,5 @@ gr 0: https://goodreads.com
 gr 1: https://www.goodreads.com/search?q=<query>
 grb 1: https://www.goodreads.com/book/show/<query>
 sr 1: https://reddit.com/r/<query>
+eb 0: https://ebooks.com
+eb 1: https://www.ebooks.com/en-us/searchapp/searchresults.net?term=<query>
