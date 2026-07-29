@@ -11,3 +11,4 @@ grb 1: https://www.goodreads.com/book/show/<query>
 sr 1: https://reddit.com/r/<query>
 eb 0: https://ebooks.com
 eb 1: https://www.ebooks.com/en-us/searchapp/searchresults.net?term=<query>
+ghr 1: https://github.com/<query>
