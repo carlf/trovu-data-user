@@ -12,3 +12,5 @@ sr 1: https://reddit.com/r/<query>
 eb 0: https://ebooks.com
 eb 1: https://www.ebooks.com/en-us/searchapp/searchresults.net?term=<query>
 ghr 1: https://github.com/<query>
+aur 0: https://aur.archlinux.org
+aur 1: https://aur.archlinux.org/packages?K=<query>
